@@ -2,7 +2,7 @@
 
 #### Introducción
 Este curso aborda conceptos clave y componentes esenciales en el diseño de sistemas a gran escala, centrándose en los atributos de calidad necesarios para asegurar un funcionamiento eficiente y fiable.
-
+https://www.localstack.cloud/
 ---
 
 ### Clase 1: Introducción a la Escalabilidad 📈
